@@ -1,0 +1,8 @@
+__pycahe__/
+
+.env
+*.jpg
+*.png
+
+
+staticfiles 
